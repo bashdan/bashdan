@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @bashdan
-- 👀 I’m interested in computer (OS and systems) security as well as functional programming (for fun.)
-- 🌱 I just finished my BS in computer science from the University of Iowa.
-- 💞️ I’m looking to collaborate on chess engines and other games-playing algorithms, including generic (Zillions of Games) style algorithms.
-- 📫 How to reach me at my LinkedIn or email at hawkeyedaniel@gmail.com
+- Howdy, I’m @bashdan
+- I am interested in containerization and reconstructible development environments. I'm a fan of Kubernetes, Docker, GitLab, etc., and VPC development.
 
 <!---
 bashdan/bashdan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
